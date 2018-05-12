@@ -1,0 +1,43 @@
+_repo: Oldtown-Fireside-Stories_22320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, H. B. (Harriet Beecher)
+    - Crowfield, Christopher
+    - Stowe, Harriet Elizabeth Beecher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: The Shelf2Life Literature and Fiction Collection is a unique set of short
+  stories, poems and novels from the late 19th to early 20th centuries. From tales
+  of love, life and heartbreaking loss to humorous stories of ghost encounters, these
+  volumes captivate the imaginations of readers young and old. Included in this collection
+  are a variety of dramatic and spirited poems that contemplate the mysteries of life
+  and celebrate the wild beauty of nature. The Shelf2Life Literature and Fiction Collection
+  provides readers with an opportunity to enjoy and study these iconic literary works,
+  many of which were written during a period of remarkable creativity.
+gutenberg_issued: '2007-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Women -- New England -- Fiction'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+tableOfContents: The Ghost In The Mill -- The Sullivan Looking-Glass -- The Minister's
+  Housekeeper -- The Widow's Bandbox -- Captain Kidd's Money -- Mis' Elderkin's Pitcher
+  -- The Ghost in The Cap'n Brownhouse
+title: Oldtown Fireside Stories
+url: http://www.gutenberg.org/ebooks/22320
